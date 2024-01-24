@@ -1,0 +1,38 @@
+header{
+    background-color: green;
+    height: 5vh;
+    width: 100%;
+    float: middle;
+    padding: 5px;
+    text-align: center;
+}
+#menu{
+    background-color: greenyellow;
+    height: 70vh;
+    width: 26%;
+    padding: 5px;
+}
+.container{
+    display: flex;
+}
+#content{
+    background-color: aqua;
+    height: 70vh;
+    width: 57%;
+    padding: 5px;
+}
+#action{
+    background-color: antiquewhite;
+    height: 70vh;
+    width: 40%;
+    padding: 5px;
+}
+footer{
+    background-color: green;
+    height: 5vh;
+    width: 100%;
+    float: middle;
+    padding: 5px;
+    text-align: center;
+    
+}
